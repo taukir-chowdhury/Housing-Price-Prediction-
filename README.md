@@ -1,3 +1,5 @@
+
+#Not Completed Yet, Training is done, GUI is under development
 # Housing-Price-Prediction-
 Housing Price Prediction using Linear Regression
 
