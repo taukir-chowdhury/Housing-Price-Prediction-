@@ -1,11 +1,8 @@
 
 #Not Completed Yet, Training is done, GUI is under development
 # Housing-Price-Prediction-
-Housing Price Prediction using Linear Regression
-
-Hpusing Price Prediction Using Linear Regression
-Created following guided project by codebasics.
-
+Housing Price Prediction using Linear Regression:
+A simple linear Regression model trained on "bengaluru_house_prices.csv" to get acquinted with Machine Learning. This application cleans up the data, takes necessary preprocessing steps, and uses sklearn to train the model. The model is presented to users using Python GUI. 
 Language: Python
 Modules:
  1) Sklearn
@@ -13,4 +10,3 @@ Modules:
  3) pandas
  4) tkinter
  
-The model is trained using Python sklearn, and presented to user using Python GUI
